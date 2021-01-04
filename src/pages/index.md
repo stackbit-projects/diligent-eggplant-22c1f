@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: WhileTime.now();
-    subtitle: '              Be Online'
+    subtitle: Be Online
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
