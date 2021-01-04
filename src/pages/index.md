@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: WhileTime.now();
     subtitle: Be Online
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: '> ##### ****App Bataye hum banye '
     actions:
       - label: Contact Us
         url: /features
