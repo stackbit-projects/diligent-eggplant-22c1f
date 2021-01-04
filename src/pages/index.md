@@ -7,7 +7,7 @@ sections:
     content: '> ##### आप बताये,हम बनाये'
     actions:
       - label: Contact Us
-        url: /features
+        url: 'href="https://api.whatsapp.com/send?phone=+91 74883 10328"'
         style: secondary
     image: images/classic/hero.png
     media_position: left
