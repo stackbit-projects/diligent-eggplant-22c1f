@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: WhileTime.now();
     subtitle: Be Online
-    content: '> ##### ****App Bataye hum banye '
+    content: '> ##### आप बताये,हम बनाये'
     actions:
       - label: Contact Us
         url: /features
