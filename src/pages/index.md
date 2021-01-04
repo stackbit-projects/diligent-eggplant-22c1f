@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Contact Us
         url: /features
-        style: secondary
+        style: primary
     image: images/classic/hero.png
     media_position: left
     media_width: fifty
